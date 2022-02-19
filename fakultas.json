@@ -1,34 +1,34 @@
 [
  {
    "id": 1,
-   "jurusan": "Fakultas Syariah Dan Hukum"
+   "fakultas": "Fakultas Syariah Dan Hukum"
  },
  {
    "id": 2,
-   "jurusan": "Fakultas Tarbiyah Dan Keguruan"
+   "fakultas": "Fakultas Tarbiyah Dan Keguruan"
  },
  {
    "id": 3,
-   "jurusan": "Fakultas Ushuluddin, Filsafat dan Politik"
+   "fakultas": "Fakultas Ushuluddin, Filsafat dan Politik"
  },
  {
    "id": 4,
-   "jurusan": "Fakultas Adab Dan Humaniora"
+   "fakultas": "Fakultas Adab Dan Humaniora"
  },
  {
    "id": 5,
-   "jurusan": "Fakultas Dakwah Dan Komunikasi"
+   "fakultas": "Fakultas Dakwah Dan Komunikasi"
  },
  {
    "id": 6,
-   "jurusan": "Fakultas Sains Dan Teknologi"
+   "fakultas": "Fakultas Sains Dan Teknologi"
  },
  {
    "id": 7,
-   "jurusan": "Fakultas Ekonomi Dan Bisnis Islam"
+   "fakultas": "Fakultas Ekonomi Dan Bisnis Islam"
  },
  {
    "id": 8,
-   "jurusan": "Fakultas Kedokteran Dan Ilmu Kesehatan"
+   "fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan"
  }
 ]

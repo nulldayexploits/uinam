@@ -1,0 +1,252 @@
+[
+ {
+   "id": 1,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Ilmu Hukum"
+ },
+ {
+   "id": 2,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Hukum Pidana Dan Ketatanegaraan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Hukum Acara Peradilan Dan Kekeluargaan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Perbandingan Mazhab Dan Hukum"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Hukum Ekonomi Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 1,
+   "jurusan": "Jurusan Ilmu Falaq"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Agama Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Bahasa Arab"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Manajemen Pendidikan Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Bahasa Inggris"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Matematika"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Fisika"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Biologi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Pendidikan Guru MI"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 2,
+   "jurusan": "Jurusan Madrasah Aliyah Madani"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Aqidah Filsafat"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Kajian Agama-agama"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Ilmu Alquran Dan Tafsir"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Pemikiran Politik Dan Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Sosiologi Agama"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 3,
+   "jurusan": "Jurusan Tafsir Hadist"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 4,
+   "jurusan": "Jurusan Bahasa Dan Sastra Arab"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 4,
+   "jurusan": "Jurusan Bahasa Dan Sastra Inggris"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 4,
+   "jurusan": "Jurusan D2 Ilmu Perpustakaan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 4,
+   "jurusan": "Jurusan Ilmu Perpustakaan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 4,
+   "jurusan": "Jurusan Sejarah Dan Kebudayaan Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Jurnalistik"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Komunikasi Dan Penyiaran Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Bimbingan Dan Penyuluhan Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan D2 Bimbingan Dan Penyuluhan Agama Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Komunikasi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Manajemen Dakwah"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 5,
+   "jurusan": "Jurusan Pengembangan Masyarakat Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Teknik Pengambangan Wilayah Dan Kota"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Informatika"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Arsitektur"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Biologi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Fisika"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Kimia"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Matematika"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Ilmu Peternakan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 6,
+   "jurusan": "Jurusan Sistem Informasi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 7,
+   "jurusan": "Jurusan Ekonomi Islam"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 7,
+   "jurusan": "Jurusan Ilmu Ekonomi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 7,
+   "jurusan": "Jurusan Manajemen"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 8,
+   "jurusan": "Jurusan Kesehatan Masyarakat"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 8,
+   "jurusan": "Jurusan Farmasi"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 8,
+   "jurusan": "Jurusan Keperawatan"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 8,
+   "jurusan": "Jurusan Ilmu Kedokteran"
+ },
+ {
+   "id": 1,
+   "id_fakultas": 8,
+   "jurusan": "Jurusan D3 Kebidanan"
+ }
+]
