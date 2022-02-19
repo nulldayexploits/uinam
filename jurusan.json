@@ -2,251 +2,301 @@
  {
    "id": 1,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Ilmu Hukum"
  },
  {
    "id": 2,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Hukum Pidana Dan Ketatanegaraan"
  },
  {
    "id": 1,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Hukum Acara Peradilan Dan Kekeluargaan"
  },
  {
    "id": 1,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Perbandingan Mazhab Dan Hukum"
  },
  {
    "id": 1,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Hukum Ekonomi Islam"
  },
  {
    "id": 1,
    "id_fakultas": 1,
+   "nama_fakultas": "Fakultas Syariah Dan Hukum",
    "jurusan": "Jurusan Ilmu Falaq"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Agama Islam"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Bahasa Arab"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Manajemen Pendidikan Islam"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Bahasa Inggris"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Matematika"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Fisika"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Biologi"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Pendidikan Guru MI"
  },
  {
    "id": 1,
    "id_fakultas": 2,
+   "nama_fakultas": "Fakultas Tarbiyah Dan Keguruan",
    "jurusan": "Jurusan Madrasah Aliyah Madani"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Aqidah Filsafat"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Kajian Agama-agama"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Ilmu Alquran Dan Tafsir"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Pemikiran Politik Dan Islam"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Sosiologi Agama"
  },
  {
    "id": 1,
    "id_fakultas": 3,
+   "nama_fakultas": "Fakultas Ushuluddin, Filsafat dan Politik",
    "jurusan": "Jurusan Tafsir Hadist"
  },
  {
    "id": 1,
    "id_fakultas": 4,
+   "nama_fakultas": "Fakultas Adab Dan Humaniora",
    "jurusan": "Jurusan Bahasa Dan Sastra Arab"
  },
  {
    "id": 1,
    "id_fakultas": 4,
+   "nama_fakultas": "Fakultas Adab Dan Humaniora",
    "jurusan": "Jurusan Bahasa Dan Sastra Inggris"
  },
  {
    "id": 1,
    "id_fakultas": 4,
+   "nama_fakultas": "Fakultas Adab Dan Humaniora",
    "jurusan": "Jurusan D2 Ilmu Perpustakaan"
  },
  {
    "id": 1,
    "id_fakultas": 4,
+   "nama_fakultas": "Fakultas Adab Dan Humaniora",
    "jurusan": "Jurusan Ilmu Perpustakaan"
  },
  {
    "id": 1,
    "id_fakultas": 4,
+   "nama_fakultas": "Fakultas Adab Dan Humaniora",
    "jurusan": "Jurusan Sejarah Dan Kebudayaan Islam"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Jurnalistik"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Komunikasi Dan Penyiaran Islam"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Bimbingan Dan Penyuluhan Islam"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan D2 Bimbingan Dan Penyuluhan Agama Islam"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Komunikasi"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Manajemen Dakwah"
  },
  {
    "id": 1,
    "id_fakultas": 5,
+   "nama_fakultas": "Fakultas Dakwah Dan Komunikasi",
    "jurusan": "Jurusan Pengembangan Masyarakat Islam"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Teknik Pengambangan Wilayah Dan Kota"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Informatika"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Arsitektur"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Biologi"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Fisika"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Kimia"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Matematika"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Ilmu Peternakan"
  },
  {
    "id": 1,
    "id_fakultas": 6,
+   "nama_fakultas": "Fakultas Sains Dan Teknologi",
    "jurusan": "Jurusan Sistem Informasi"
  },
  {
    "id": 1,
    "id_fakultas": 7,
+   "nama_fakultas": "Fakultas Ekonomi Dan Bisnis Islam",
    "jurusan": "Jurusan Ekonomi Islam"
  },
  {
    "id": 1,
    "id_fakultas": 7,
+   "nama_fakultas": "Fakultas Ekonomi Dan Bisnis Islam",
    "jurusan": "Jurusan Ilmu Ekonomi"
  },
  {
    "id": 1,
    "id_fakultas": 7,
+   "nama_fakultas": "Fakultas Ekonomi Dan Bisnis Islam",
    "jurusan": "Jurusan Manajemen"
  },
  {
    "id": 1,
    "id_fakultas": 8,
+   "nama_fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan",
    "jurusan": "Jurusan Kesehatan Masyarakat"
  },
  {
    "id": 1,
    "id_fakultas": 8,
+   "nama_fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan",
    "jurusan": "Jurusan Farmasi"
  },
  {
    "id": 1,
    "id_fakultas": 8,
+   "nama_fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan",
    "jurusan": "Jurusan Keperawatan"
  },
  {
    "id": 1,
    "id_fakultas": 8,
+   "nama_fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan",
    "jurusan": "Jurusan Ilmu Kedokteran"
  },
  {
    "id": 1,
    "id_fakultas": 8,
+   "nama_fakultas": "Fakultas Kedokteran Dan Ilmu Kesehatan",
    "jurusan": "Jurusan D3 Kebidanan"
  }
 ]
